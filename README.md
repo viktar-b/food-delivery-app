@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Food Delivery App - pure React
+The following project was adapted from [Udemy: React - The Complete Guide](https://www.udemy.com/share/101WayAEYad15WQ3sB/). This repository includes only front-end development, since different back-end stacks are expected to be used with it in the future. 
 
 ## Available Scripts
 
