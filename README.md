@@ -1,14 +1,14 @@
 # Food Delivery App - React Front End
 The following project was adapted from [Udemy: React - The Complete Guide](https://www.udemy.com/share/101WayAEYad15WQ3sB/). This repository includes only front-end development, since different back-end stacks are expected to be used with it in the future. 
 
-[Application UI Snap](./public/app-snap.png)
+![Application UI Snap](./public/app-snap.png)
 
 ## Table of Contents
 
 1. Running Application Locally
 2. Folder Structure
 3. Component Structure
-4. React Further Framework References
+4. React Framework Further References
 
 
 ## Running Application Locally
