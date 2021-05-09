@@ -24,8 +24,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Folder Structure
-
-![Terminal Snap](./public/folder-snap.png)
+<img src="./public/folder-snap.png" width="400" height="790">
 
 ## Component Structure
 
