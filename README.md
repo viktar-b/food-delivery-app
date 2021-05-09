@@ -25,7 +25,7 @@ You will also see any lint errors in the console.
 
 ## Folder Structure
 
-[Terminal Snap](./public/folder-snap.png)
+![Terminal Snap](./public/folder-snap.png)
 
 ## Component Structure
 
