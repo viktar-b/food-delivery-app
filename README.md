@@ -26,10 +26,6 @@ You will also see any lint errors in the console.
 ## Folder Structure
 <img src="./public/folder-snap.png" width="400" height="790">
 
-## Component Structure
-
-TODO
-
 ## React Framework Further References
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
